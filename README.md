@@ -21,11 +21,11 @@ desse repositório. A localização desses projetos específicos estão no site 
   - [X] Ler botão 
   - [X] Ler vários botões, com cada botão executando uma função diferente 
 ### Programação de sensores A/D 
-  - [ ] Programação de atuadores: 
-  - [ ] Controlar motores: 
+  - [X] Programação de atuadores: 
+  - [X] Controlar motores: 
   - [ ] Motor de passo 
   - [ ] Motor DC com PWM 
-  - [ ] Servo motor 
+  - [X] Servo motor 
   - [ ] Controlar outros atuadores ->
         Livre para escolha (ex.: válvula para controle de vazão de líquidos) 
 ### Programação de outros dispositivos: 
