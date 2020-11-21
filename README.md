@@ -23,17 +23,17 @@ desse repositório. A localização desses projetos específicos estão no site 
 ### Programação de sensores A/D 
   - [X] Programação de atuadores: 
   - [X] Controlar motores: 
-  - [ ] Motor de passo 
-  - [ ] Motor DC com PWM 
+  - [X] Motor de passo 
+  - [X] Motor DC com PWM 
   - [X] Servo motor 
-  - [ ] Controlar outros atuadores ->
+  - [X] Controlar outros atuadores ->
         Livre para escolha (ex.: válvula para controle de vazão de líquidos) 
 ### Programação de outros dispositivos: 
 - [X] Teclado; 
 - [X] LCD; 
 - [X] Programação de Interrupções (opcional); 
-- [ ] Interrupção externa; 
-- [ ] Timer  
+- [X] Interrupção externa; 
+- [X] Timer  
 
 ## Projeto final 
 ### Deve possuir alguns requisitos 
