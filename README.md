@@ -37,9 +37,9 @@ desse repositório. A localização desses projetos específicos estão no site 
 
 ## Projeto final 
 ### Deve possuir alguns requisitos 
-- [ ] Ter teclado 
-- [ ] Ter LCD 
-- [ ] Pelo menos um sensor 
-- [ ] Pelo menos um atuador 
-- [ ] Interrupção e/ou timer (se for escolhido ministrar esse conteúdo) 
-- [ ] A lógica do projeto deve ser integradora com os itens do projeto
+- [X] Ter teclado 
+- [X] Ter LCD 
+- [X] Pelo menos um sensor 
+- [X] Pelo menos um atuador 
+- [X] Interrupção e/ou timer (se for escolhido ministrar esse conteúdo) 
+- [X] A lógica do projeto deve ser integradora com os itens do projeto
